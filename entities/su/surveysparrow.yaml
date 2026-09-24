@@ -8,9 +8,10 @@ entity:
     - value: surveysparrow.com
       role: primary
       valid_from: 2026-08-30T20:38:52.000Z
-  category: no-code
+  category: data-analytics
 profile:
-  description: AI-powered customer feedback platform for surveys, forms, and research.
+  summary: SurveySparrow is an AI-powered customer feedback platform for surveys, forms, and research, with AI follow-up questions and targeted website and in-app micro-surveys.
+  description: SurveySparrow is an AI-powered customer feedback platform for surveys, forms, and research.
   links:
     site: https://surveysparrow.com/
 sources:
@@ -23,7 +24,7 @@ programs:
     program_slug: saas-startup-program
     program_slug_aliases: []
     title: SurveySparrow SaaS Startup Program
-    summary: SurveySparrow's program for legally registered startups that are no more than two years old and have no more than 50 employees.
+    summary: The SurveySparrow SaaS Startup Program lets legally registered startups two years old or less with 50 or fewer employees buy $2,000 in credits for $500.
     source_ids:
       - src_162aa49a1bba96b03c197c5dac35914fef1449aec1fcfb405a62838c821c62c2
 offers:
@@ -39,7 +40,7 @@ offers:
     economics:
       benefits:
         - benefit_id: ben_01
-          description: $2,000 in non-refundable SurveySparrow credits, excluding Enterprise and higher plans
+          description: $2,000 in SurveySparrow credits for $500; credits are non-refundable, must be used within 18 months from activation on any plan, and do not apply to Enterprise and above plans.
           duration:
             kind: exact
             value: P18M
@@ -85,7 +86,7 @@ offers:
       availability: public
       method: form
       url: https://surveysparrow.com/saas-startup-program/
-      instructions: Select APPLY NOW and submit the startup-program application.
+      instructions: Select APPLY NOW on the SaaS Startup Program page and submit the application.
     terms_url: https://surveysparrow.com/saas-startup-program/
     source_ids:
       - src_162aa49a1bba96b03c197c5dac35914fef1449aec1fcfb405a62838c821c62c2
