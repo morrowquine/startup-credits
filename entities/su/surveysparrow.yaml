@@ -24,7 +24,7 @@ programs:
     program_slug: saas-startup-program
     program_slug_aliases: []
     title: SurveySparrow SaaS Startup Program
-    summary: The SurveySparrow SaaS Startup Program lets legally registered startups two years old or less with 50 or fewer employees buy $2,000 in credits for $500.
+    summary: SurveySparrow's SaaS Startup Program gives eligible startups $2,000 in credit for $500.
     source_ids:
       - src_162aa49a1bba96b03c197c5dac35914fef1449aec1fcfb405a62838c821c62c2
 offers:
