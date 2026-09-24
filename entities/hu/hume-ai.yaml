@@ -49,8 +49,8 @@ offers:
           description: Resources to help you build with empathic AI.
           kind: other
       consideration:
-        kind: unknown
-        description: The Startup Program page does not publish the discount amount or other pricing terms for the discounted API access.
+        kind: variable
+        description: The startup receives discounted API access for early-stage startups.
     eligibility:
       rule:
         kind: manual
@@ -62,7 +62,6 @@ offers:
       access_operator_entity_id: ent_01m19htygp4b2c40t67tvahj9w
     access:
       availability: public
-      instructions: Apply to the Hume AI Startup Program through the application on the Startup Program page.
       method: form
       url: https://www.hume.ai/startup-program
     source_ids:
